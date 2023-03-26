@@ -1,4 +1,13 @@
-# Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel
+# Projetc: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel
+
+<h1 style="color: #3886f3">DEMO </h1>
+<H5><a href="https://twitter-clone-mu-virid.vercel.app" target="_blank">https://twitter-clone-mu-virid.vercel.app</a></H5>
+<br />
+
+<img src="https://cdn.discordapp.com/attachments/1063696898017476649/1089394239869288448/image.png" alt="Project overview" /><br/>
+<img src="https://cdn.discordapp.com/attachments/1063696898017476649/1089395014410436618/image.png" alt="Project overview" />
+<br/>
+<hr/>
 
 
 - Authentication system
